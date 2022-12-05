@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 ansible-builder = "*"
 ansible-runner = "*"
+ansible = "*"
 
 [dev-packages]
 

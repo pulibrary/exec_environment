@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  role_name: common
+  author: pulibrary
+  description: Common Tools Needed at PUL
+  company: Princeton University Library
+
+  license: MIT
+
+  min_ansible_version: "2.4.0.0"
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - bionic
+
+dependencies: []
