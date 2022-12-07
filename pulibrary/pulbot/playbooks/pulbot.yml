@@ -1,0 +1,9 @@
+---
+- hosts: localhost
+  collections:
+    - pulibrary.pulbot.capistrano
+
+  #tasks:
+    #  - import_role:
+    #  name: pulibrary.capistrano
+
